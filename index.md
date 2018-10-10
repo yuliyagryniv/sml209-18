@@ -14,7 +14,7 @@
 <li>Do food shopping</li> 
 </ul>
 <hr>
-<h3>Section 3</h3>
+<h2>Section 3</h2>
 <p>Three of my favourite things</p>
 <ol>
   <li>Sports Cars</li> 
