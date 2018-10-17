@@ -1,6 +1,9 @@
 <h1>HTML Part 2 Homework</h1>
 This page was made on the 14<sup>th</sup> of October 2018. 
-<img src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="Je parle français" >
+<a href="https://www.eoibergueda.cat/je-parle-francais/"
+title="View Image Source">
+<img src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
+</a>
 <br>
 My three top definitions:
 <dl>
