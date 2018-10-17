@@ -1,4 +1,4 @@
-<h1>HTML Part 2 Homework</h1>
+<h1><p style="colour:red;">HTML Part 2 Homework</p></h1>
 <p style="color:red;">This page was made on the 14<sup>th</sup> of October 2018</p>
 <a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
 title="View Image Source">
