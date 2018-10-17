@@ -52,7 +52,6 @@ My three top definitions:
   </tr>
 </table>
 <br>
-<html lang="fr">
-  Je m'appelle Yuliya et j'habite à Londres
-  </html>
+<p lang="fr">Je m'appelle Yuliya et j'habite à Londres</p>
+
   
