@@ -3,7 +3,7 @@
 <a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
 title="View Image Source">
 <img src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
-<img style="width:70%;border:2px solid red;"
+<img style="width:70%;border:2px solid red;">
 </a>
 <br>
 My three top definitions:
