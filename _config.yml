@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Learn English Today
 description: Simple steps to perfect English
 github:
-  tutorial2: tutorial2.html
+  page2: tutorial2.html
   page3: page3.html
   page4: page4.html
   page5: page5.html
