@@ -2,8 +2,8 @@
 <p style="color:red;">This page was made on the 14<sup>th</sup> of October 2018</p>
 <a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
 title="View Image Source">
-<img src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
-<img style="width:70%;border:2px solid red;">
+<img style="width:70%; border:1px solid red;"
+src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
 </a>
 <br>
 My three top definitions:
