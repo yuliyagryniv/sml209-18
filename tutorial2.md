@@ -8,10 +8,9 @@ title="View Image Source">
 <img class="imgLeft" style="width:70%; border:1px solid red;"
 src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
 </a>
-
 The flag of France (French: Drapeau français) is a tricolour flag featuring three vertical bands coloured blue (hoist side), white, and red. It is known to English speakers as the French Tricolour or simply the Tricolour (French: Tricolore). The Tricolour has become one of the most influential flags in history, with its three-colour scheme being copied by many other nations, both in Europe and the rest of the world
-
 </p>
+
 <br>
 My three top definitions:
 <dl>
