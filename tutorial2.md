@@ -1,5 +1,5 @@
-<h1 style="color:red;">HTML Part 2 Homework</h1>
-<p style="color:red;">This page was made on the 14<sup>th</sup> of October 2018</p>
+<h1 style="color:#22539f;">HTML Part 2 Homework</h1>
+<p style="color:#22539f;">This page was made on the 14<sup>th</sup> of October 2018</p>
 
 <p>
   
