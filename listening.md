@@ -5,4 +5,7 @@
 
 <iframe src="https://h5p.org/h5p/embed/345717" width="560" height="1414" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<br>
 
+Learn the following flash cards of basic French verbs. Use the audio to help you with pronunciation. 
+<iframe src="https://h5p.org/h5p/embed/364501" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
