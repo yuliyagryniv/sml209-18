@@ -3,7 +3,8 @@
 <hr>
 
 <h2>Section 1</h2>
-<p>My name is Yuliya and I am from Western Ukraine. I moved to London with my family when I was 5 years old, so now I consider the UK as my home. At QMUL I am studying French with Business Management. </p>
+<p>My name is Yuliya and I am from Western Ukraine. I moved to London with my family when I was 5 years old. At QMUL I am studying French with Business Management. 
+This web page will be used in order to create content for learners of the French language, who are particularly seeking to learn about verbs and their conjugations.</p>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv"> Visit my QM+ Hub Page</a>
 <hr>
 <h2>Section 2</h2>
