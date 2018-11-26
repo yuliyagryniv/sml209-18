@@ -185,7 +185,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   <b>Note:</b> In French, the verbs which take <i>être</i> must agree in number and gender. If the subject that you are talking about is <b>feminine</b>, you must add an extra <i>e</i> to the end of the past participle. The same applies for subjects which are plural such as <i>nous</i> or <i>vous</i> (plural). If the subject is both feminine and plural, you must add <i>es</i> to the past participle. If the subjects that you are talking about are both masculine and feminine, you must use the masculine form. These are shown in <b>bold</b> in the examples above. 
   </p>
   
-<p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p.
+<p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p>
 <p> To form a sentence in the perfect tense with <i>avoir</i>, you must simply take the subject, followed by the conjugated auxiliary verb, and finished with the past participle of the action that you are talking about. 
 <br> 
 For example: J'ai joué - <i>I played</i> or <i>I have played</i>. 
