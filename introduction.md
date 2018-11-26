@@ -17,15 +17,14 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   
 <iframe src="https://h5p.org/h5p/embed/369358" width="1090" height="309" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
-
 <h2>Auxiliary Verbs</h2>
 <p>
   In order to learn the basis of French verbs in a compound tense, it is essential to understand the use of Auxiliary Verbs.
-  In the French Language, there are two main auxiliary verbs which are <b>'Être'</b> meaning <i>to be</i> and <b>'Avoir'</b> which means <i>to have</i>. 
-  An example of a compound tense is the perfect tense, <i>(le passé composé</i>, which requires the use of an auxiliary verb in order to be formed. 
-  In order to form the compound tense, you must first conjugate the appropriate auxiliary very in the present tense, and then add the past participle of the verb afterwards. Differents verbs require different auxiliary verbs, however this will be discussed later on. 
-  The conjugations for the verbs <b>'Être'</b> and <b>'Avoir'</b> are as follows:
-</p>
+  In the French Language, there are two main auxiliary verbs which are <b>'Être'</b> meaning <i>to be</i> and <b>'Avoir'</b> which means <i>to have</i>. </p>
+<p>An example of a compound tense is the perfect tense, <i>(le passé composé</i>, which requires the use of an auxiliary verb in order to be formed.</p>
+<p>In order to form the compound tense, you must first conjugate the appropriate auxiliary very in the present tense, and then add the past participle of the verb afterwards. Differents verbs require different auxiliary verbs, however this will be discussed later on. </p>
+
+<p>The conjugations for the verbs <b>'Être'</b> and <b>'Avoir'</b> are as follows:</p>
 
 <table>
   <tr>
