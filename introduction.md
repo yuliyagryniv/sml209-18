@@ -203,10 +203,11 @@ Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add a
   <li>For verbs which end in <b>-re</b>, you take off the <b>-re</b> and add <b>-u</b>. (Example: ATTENDRE - attendu) </li>
     </ul>
     
-
 </p>
 
-
+<h3>Exercise 1</h3>
+Complete the following exercise once you have memorised the verbs which take <i>être</i>. 
+<iframe src="https://h5p.org/h5p/embed/369419" width="1090" height="231" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 <p lang="fr">Je m'appelle Yuliya et j'habite à Londres</p>
