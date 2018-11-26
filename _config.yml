@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title: French Verb Learning
+title: Guide to French Verbs
 description: Simple steps to perfecting French verbs
 github:
   page2: introduction.html
   page3: listening.html
   page4: verbconjugations.html
-  page5: page5.html
+  page5: reading-and-writing.html
