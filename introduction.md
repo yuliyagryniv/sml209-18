@@ -76,7 +76,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
 </table>
 
 <h3>Choosing the correct auxiliary verb</h3>
-<p> The verb <i>Être</i> is <b>only</b> used with 17 specific verbs - mainly verbs of movement. The rest of the verbs take the auxiliary <i>avoir</i>. The only way of memorising these verbs is by learning them off by heart. One you have tried to memorise these verbs, please go to exercise 1 (link) to test yourself. </p>
+<p> The verb <i>Être</i> is <b>only</b> used with 17 specific verbs - mainly verbs of movement. The rest of the verbs take the auxiliary <i>avoir</i>. The only way of memorising these verbs is by learning them off by heart. One you have tried to memorise these verbs, please go to exercise 2 (link) to test yourself. </p>
 
 <p>The table below shows the verbs which take <b>être</b> and also shows the past participle for each verb. This is essential when forming a compound sentence.</p>
 
@@ -170,6 +170,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
     <td> <i>venu</i> </td>
   </tr>
   </table>
+ 
   
  <p> Look at the following examples which demonstrate verbs with <i>être</i>.
   
@@ -183,8 +184,20 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   </ol>
   
   <b>Note:</b> In French, the verbs which take <i>être</i> must agree in number and gender. If the subject that you are talking about is <b>feminine</b>, you must add an extra <i>e</i> to the end of the past participle. The same applies for subjects which are plural such as <i>nous</i> or <i>vous</i> (plural). If the subject is both feminine and plural, you must add <i>es</i> to the past participle. If the subjects that you are talking about are both masculine and feminine, you must use the masculine form. These are shown in <b>bold</b> in the examples above. 
+
+<p>
+  Complete this exercise in order to test your knowledge of the past participles which go with the verb être. 
+  
+  <a style="float:right;" href="etrepastparticiples.html" class="btn2">Go to Exercise 1</a>
+  </p>
+  <div style="clear:both;"> </div>
+  
   </p>
   
+  
+  
+  
+
 <p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p>
 <p> To form a sentence in the perfect tense with <i>avoir</i>, you must simply take the subject, followed by the conjugated auxiliary verb, and finished with the past participle of the action that you are talking about. 
 <br> 
@@ -205,10 +218,13 @@ Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add a
     
 </p>
 
-<h3>Exercise 1</h3>
+<h3>Exercise 2</h3>
 Complete the following exercise once you have memorised the verbs which take <i>être</i>. 
 <iframe src="https://h5p.org/h5p/embed/369419" width="1090" height="231" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+
+
+  
 
 <p lang="fr">Je m'appelle Yuliya et j'habite à Londres</p>
 
