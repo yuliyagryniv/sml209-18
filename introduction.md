@@ -170,7 +170,22 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   </tr>
   </table>
   
- <p> Examples of such verbs are 
+ <p> Look at the following examples which demonstrate verbs with <i>être</i>.
+  
+  <ol type="1">
+  <li>je suis allé</li>
+  <li>tu es parti</li>
+  <li>il est venu</li>
+  <li>nous sommes arrivé<b>s</b></li>
+  <li>vous êtes sorti(s)</li>
+  <li>ils sont mort<b>s</b></li>
+  </ol>
+  
+  <b>Note:</b> In French, the verbs which take <i>être</i> must agree in number and gender. If the subject that you are talking about is <b>feminine</b>, you must add an extra <i>e</i> to the end of the past participle. The same applies for subjects which are plural such as <i>nous</i> or <i>vous</i> (plural). If the subject is both feminine and plural, you must add <i>es</i> to the past participle. These are shown in <b>bold</b> in the examples above. 
+  </p>
+  
+    
+  
 
 
 
