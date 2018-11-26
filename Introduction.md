@@ -1,5 +1,4 @@
-<h1 style="color:#22539f;">HTML Part 2 Homework</h1>
-<p style="color:#22539f;">This page was made on the 14<sup>th</sup> of October 2018</p>
+<h1 style="color:#22539f;">Introduction to French Verbs</h1>
 
 <p>
   
@@ -60,3 +59,4 @@ My three top definitions:
 <p lang="fr">Je m'appelle Yuliya et j'habite à Londres</p>
 
   
+<p style="color:#22539f;">This page was made on the 26<sup>th</sup> of November 2018</p>
