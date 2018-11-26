@@ -181,7 +181,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   <li>ils sont mort<b>s</b></li>
   </ol>
   
-  <b>Note:</b> In French, the verbs which take <i>être</i> must agree in number and gender. If the subject that you are talking about is <b>feminine</b>, you must add an extra <i>e</i> to the end of the past participle. The same applies for subjects which are plural such as <i>nous</i> or <i>vous</i> (plural). If the subject is both feminine and plural, you must add <i>es</i> to the past participle. These are shown in <b>bold</b> in the examples above. 
+  <b>Note:</b> In French, the verbs which take <i>être</i> must agree in number and gender. If the subject that you are talking about is <b>feminine</b>, you must add an extra <i>e</i> to the end of the past participle. The same applies for subjects which are plural such as <i>nous</i> or <i>vous</i> (plural). If the subject is both feminine and plural, you must add <i>es</i> to the past participle. If the subjects that you are talking about are both masculine and feminine, you must use the masculine form. These are shown in <b>bold</b> in the examples above. 
   </p>
   
     
