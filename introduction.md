@@ -13,19 +13,11 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
 
 <p> 
   This page is an overview for beginners of the French verbs and tenses. Here, we will use grammatical terminology, so it is essential that you are familiar with the basic terms:
-  </p>
+</p>
   
-Top definitions:
-<dl>
-  <dt>preposition</dt>
-  <dd>A word like "at", "to", "in", "over" etc. Prepositions usually come before a noun and give information about things like time, place and direction.</dd>
-  <dt>tense</dt>
-  <dd>The form of a verb that shows us when the action or state happens (past, present or future). Note that the name of a tense is not always a guide to when the action happens. The "present continuous tense", for example, can be used to talk about the present or the future.</dd>
-  <dt>modal verb</dt>
-  <dd>An auxiliary verb like can, may, must etc that modifies the main verb and expresses possibility, probability etc. It is also called "modal auxiliary verb".</dd>
-  </dl>
-  
-  
+<iframe src="https://h5p.org/h5p/embed/369358" width="1090" height="309" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+
 <h2>Auxiliary Verbs</h2>
 <p>
   In order to learn the basis of French verbs in a compound tense, it is essential to understand the use of Auxiliary Verbs.
@@ -37,37 +29,49 @@ Top definitions:
 
 <table>
   <tr>
-    <th>Subject Pronoun</th><th>Être Conjugation</th><th>Avoir Conjugation</th>
+    <th>Subject Pronoun</th><th>Être Conjugation</th><th>Definition</th><th>Avoir Conjugation</th><th>Definition</th>
   </tr>
   <tr>
     <td>Je</td>
     <td>suis</td>
+    <td>I am</td>
     <td>ai</td>
+    <td>I have</td>
   </tr>
   <tr>
     <td>Tu</td>
     <td>es</td>
+    <td>You are</td>
     <td>as</td>
+    <td>You have</td>
   </tr>
   <tr>
     <td>Il/Elle/On</td>
     <td>est</td>
+    <td>He/She/One is</td>
     <td>a</td>
+    <td>He/She/One has</td>
   </tr>
   <tr>
     <td>Nous</td>
     <td>sommes</td>
+    <td>We are</td>
     <td>avons</td>
+    <td>We have</td>
   </tr>
   <tr>
     <td>Vous</td>
     <td>êtes</td>
+    <td>You (formal/plural) are</td>
     <td>avez</td>
+    <td>You (formal/plural) have</td>
   </tr>
   <tr>
     <td>Ils/Elles</td>
     <td>sont</td>
+    <td>They (masc/fem) are</td>
     <td>ont</td>
+    <td>They (masc/fem) have</td>
   </tr>
 </table>
 
