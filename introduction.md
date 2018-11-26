@@ -74,6 +74,90 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   </tr>
 </table>
 
+<h3>Choosing the correct auxiliary verb</h3>
+<p> The verb Être is <b>only</b> used with 17 specific verbs - mainly verbs of movement. The rest of the verbs take the auxiliary <b>avoir</b>. The only way of memorising these verbs is by learning them off by heart. One you have tried to memorise these verbs, please go to exercise 1 (link) to test yourself. </p>
+
+<p>The verbs which take <b>être</b> are the following:</p>
+
+<table>
+  <tr>
+    <th>Verb</th><th>Definition</th>
+  </tr>
+  <tr>
+    <td> <i>aller</i> </td>
+    <td>to go</td>
+  </tr>
+  <tr> 
+    <td> <i>arriver</i> </td>
+    <td>to arrive</td>
+  </tr>
+  <tr>
+    <td> <i>descendre</i> </td>
+    <td>to go down</td>
+  </tr>
+  <tr>
+    <td> <i>devenir</i> </td>
+    <td>to become</td>
+  </tr>
+  <tr>
+    <td> <i>entrer</i> </td>
+    <td>to enter</td>
+  </tr>
+  <tr>
+    <td> <i>monter</i> </td>
+    <td>to go up</td>
+  </tr>
+  <tr>
+    <td> <i>mourir</i> </td>
+    <td>to die</td>
+  </tr>
+  <tr>
+    <td> <i>naître</i> </td>
+    <td>to be born</td>
+  </tr>
+  <tr>
+    <td> <i>passer</i> </td>
+    <td>to pass</td>
+  </tr>
+  <tr>
+    <td> <i>partir</i> </td>
+    <td>to leave</td>
+  </tr>
+  <tr>
+    <td> <i>rentrer</i> </td>
+    <td>to re-enter</td>
+  </tr>
+  <tr>
+    <td> <i>rester</i> </td>
+    <td>to stay</td>
+  </tr>
+  <tr>
+    <td> <i>retourner</i> </td>
+    <td>to return</td>
+  </tr>
+  <tr>
+    <td> <i>revenir</i> </td>
+    <td>to come back</td>
+  </tr>
+  <tr>
+    <td> <i>sortir</i> </td>
+    <td>to go out</td>
+  </tr>
+  <tr>
+    <td> <i>tomber</i> </td>
+    <td>to fall</td>
+  </tr>
+  <tr>
+    <td> <i>venir</i> </td>
+    <td>to come</td>
+  </tr>
+  </table>
+  
+    
+
+
+
+
 <p lang="fr">Je m'appelle Yuliya et j'habite à Londres</p>
 
   
