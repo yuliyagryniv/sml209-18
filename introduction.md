@@ -188,7 +188,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
 <p>
   Complete this exercise in order to test your knowledge of the past participles which go with the verb être. 
   
-  <a style="float:right;" href="etrepastparticiples.html" class="btn2">Go to Exercise 1</a>
+  <a style="float:right;" href="etrepastparticiple.html" class="btn3">Go to Exercise</a>
   </p>
   <div style="clear:both;"> </div>
   
