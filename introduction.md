@@ -198,8 +198,8 @@ Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add a
 <p>To form the past participle of <b>regular verbs</b>, you must follow the following rules:
 
 <ul style="list-style-type:circle">
-  <li>For verbs which end in <b>-er</b>, you take off the <b>-er</b> and add an <b>-é</b>. (Example: REGARDER - regardé</li>
-  <li>For verbs which end in <b>-ir</b>, you take off the <b>-ir</b> and add an <b>-i</b>. (Example: FINIR - fini</li>
+  <li>For verbs which end in <b>-er</b>, you take off the <b>-er</b> and add an <b>-é</b>. (Example: REGARDER - regardé)</li>
+  <li>For verbs which end in <b>-ir</b>, you take off the <b>-ir</b> and add an <b>-i</b>. (Example: FINIR - fini)</li>
   <li>For verbs which end in <b>-re</b>, you take off the <b>-re</b> and add <b>-u</b>. (Example: ATTENDRE - attendu) </li>
     </ul>
     
