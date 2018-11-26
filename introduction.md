@@ -9,6 +9,17 @@ title="View Image Source">
 The flag of France (French: Drapeau français) is a tricolour flag featuring three vertical bands coloured blue (hoist side), white, and red. It is known to English speakers as the French Tricolour or simply the Tricolour (French: Tricolore). The Tricolour has become one of the most influential flags in history, with its three-colour scheme being copied by many other nations, both in Europe and the rest of the world
 </p>
 
+In order to learn the basis of French verbs, it is essential to understand the use of Auxiliary Verbs. 
+In the French Language, there are two main auxiliary verbs which are <b>'Être'</b> meaning <i>to be</i> and <b>'Avoir'</b> which means <i>to have</i>
+
+
+
+
+
+
+
+
+
 <br>
 My three top definitions:
 <dl>
