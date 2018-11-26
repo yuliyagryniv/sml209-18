@@ -17,7 +17,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   
 <iframe src="https://h5p.org/h5p/embed/369358" width="1090" height="309" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
-<h2>Auxiliary Verbs</h2>
+<h2>Auxiliary Verbs - The Perfect Tense</h2>
 <p>
   In order to learn the basis of French verbs in a compound tense, it is essential to understand the use of Auxiliary Verbs.
   In the French Language, there are two main auxiliary verbs which are <b>'Être'</b> meaning <i>to be</i> and <b>'Avoir'</b> which means <i>to have</i>. </p>
@@ -184,8 +184,26 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   <b>Note:</b> In French, the verbs which take <i>être</i> must agree in number and gender. If the subject that you are talking about is <b>feminine</b>, you must add an extra <i>e</i> to the end of the past participle. The same applies for subjects which are plural such as <i>nous</i> or <i>vous</i> (plural). If the subject is both feminine and plural, you must add <i>es</i> to the past participle. If the subjects that you are talking about are both masculine and feminine, you must use the masculine form. These are shown in <b>bold</b> in the examples above. 
   </p>
   
+<p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p.
+<p> To form a sentence in the perfect tense with <i>avoir</i>, you must simply take the subject, followed by the conjugated auxiliary verb, and finished with the past participle of the action that you are talking about. 
+<br> 
+For example: J'ai joué - <i>I played</i> or <i>I have played</i>. 
+Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>. 
+
+Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add an extra <i>-s</i> because the verb <i>manger</i> goes with the verb <i>avoir</i>, not <i>être</i>. 
+
+</p>
+
+<p>To form the past participle of <b>regular verbs</b>, you must follow the following rules:
+
+<ul style="list-style-type:circle">
+  <li>For verbs which end in <b>-er</b>, you take off the <b>-er</b> and add an <b>-é</b>. (Example: REGARDER - regardé</li>
+  <li>For verbs which end in <b>-ir</b>, you take off the <b>-ir</b> and add an <b>-i</b>. (Example: FINIR - fini</li>
+  <li>For verbs which end in <b>-re</b>, you take off the <b>-re</b> and add <b>-u</b>. (Example: ATTENDRE - attendu(/li>
+    </ul>
     
-  
+
+</p>
 
 
 
