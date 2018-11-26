@@ -75,7 +75,7 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
 </table>
 
 <h3>Choosing the correct auxiliary verb</h3>
-<p> The verb Être is <b>only</b> used with 17 specific verbs - mainly verbs of movement. The rest of the verbs take the auxiliary <b>avoir</b>. The only way of memorising these verbs is by learning them off by heart. One you have tried to memorise these verbs, please go to exercise 1 (link) to test yourself. </p>
+<p> The verb <i>Être</i> is <b>only</b> used with 17 specific verbs - mainly verbs of movement. The rest of the verbs take the auxiliary <i>avoir</i>. The only way of memorising these verbs is by learning them off by heart. One you have tried to memorise these verbs, please go to exercise 1 (link) to test yourself. </p>
 
 <p>The verbs which take <b>être</b> are the following:</p>
 
