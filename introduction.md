@@ -199,7 +199,16 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   
 
 <p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p>
-<p> To form a sentence in the perfect tense with <i>avoir</i>, you must simply take the subject, followed by the conjugated auxiliary verb, and finished with the past participle of the action that you are talking about. 
+<h3> Formation with Avoir</h3>
+<p> To form a sentence in the perfect tense with <i>avoir</i>, you must simply take the subject, followed by the conjugated auxiliary verb, and finished with the past participle of the action that you are talking about. </p>
+  <p>To form the past participle of <b>regular verbs</b>, you must follow the following rules:
+
+<ul style="list-style-type:circle">
+  <li>For verbs which end in <b>-er</b>, you take off the <b>-er</b> and add an <b>-é</b>. (Example: REGARDER - regardé)</li>
+  <li>For verbs which end in <b>-ir</b>, you take off the <b>-ir</b> and add an <b>-i</b>. (Example: FINIR - fini)</li>
+  <li>For verbs which end in <b>-re</b>, you take off the <b>-re</b> and add <b>-u</b>. (Example: ATTENDRE - attendu) </li>
+    </ul>
+    </p>
 <br> 
 For example: J'ai joué - <i>I played</i> or <i>I have played</i>. 
 Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>. 
@@ -208,13 +217,6 @@ Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add a
 
 </p>
 
-<p>To form the past participle of <b>regular verbs</b>, you must follow the following rules:
-
-<ul style="list-style-type:circle">
-  <li>For verbs which end in <b>-er</b>, you take off the <b>-er</b> and add an <b>-é</b>. (Example: REGARDER - regardé)</li>
-  <li>For verbs which end in <b>-ir</b>, you take off the <b>-ir</b> and add an <b>-i</b>. (Example: FINIR - fini)</li>
-  <li>For verbs which end in <b>-re</b>, you take off the <b>-re</b> and add <b>-u</b>. (Example: ATTENDRE - attendu) </li>
-    </ul>
     
 </p>
 
