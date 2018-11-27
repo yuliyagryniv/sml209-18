@@ -62,6 +62,9 @@
     <td>They (masc/fem) have</td>
   </tr>
 </table>
+<p>It is very important that you learn these conjugations for the auxiliary verbs in French. This is because the majority of other tenses in the French language will be dependent on them, which is why it is primordial that they are learnt off by heart. </p>
+<p>To help you practice, complete the following exercises in order to make sure that you feel confident with the present tense conjugations!</p>
+
 
 <h3>Choosing the correct auxiliary verb</h3>
 <p> The verb <i>Être</i> is <b>only</b> used with 17 specific verbs - mainly verbs of movement. The rest of the verbs take the auxiliary <i>avoir</i>. The only way of memorising these verbs is by learning them off by heart. One you have tried to memorise these verbs, please go to exercise 2 (link) to test yourself. </p>
