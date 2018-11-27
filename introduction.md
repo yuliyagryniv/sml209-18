@@ -1,20 +1,8 @@
 <h1 style="color:#22539f;">Introduction to French Verbs</h1>
 
-<p>
-  
-<a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
-title="View Image Source">
-<img class="imgLeft" src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
-</a>
-The flag of France (French: Drapeau français) is a tricolour flag featuring three vertical bands coloured blue (hoist side), white, and red. It is known to English speakers as the French Tricolour or simply the Tricolour (French: Tricolore). The Tricolour has become one of the most influential flags in history, with its three-colour scheme being copied by many other nations, both in Europe and the rest of the world
-</p>
-
-<br>
-
 <p> 
   This page is an overview for beginners of the French verbs and tenses. Here, we will use grammatical terminology, so it is essential that you are familiar with the basic terms:
 </p>
-  
 <iframe src="https://h5p.org/h5p/embed/369358" width="1090" height="309" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
 
