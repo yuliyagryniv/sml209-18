@@ -10,6 +10,6 @@
 <br>
 
 <p>
-  <a style="float:left;" href="verbconjugations.html" class="btn2">Back to Verb Conjugations</a>
+  <a style="float:left;" href="introduction.html" class="btn2">Back to Introduction of French verbs</a>
 </p>
 <div style="clear:both;"> </div>
