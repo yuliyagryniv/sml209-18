@@ -17,7 +17,7 @@
 
 <h3>Exercise 1: Listen to the audio and fill the gaps</h3>
 <audio controls>
-  <source src="https://www.lawlessfrench.com/wavs/bise-a-la-francaise.mp3" type="audio/ogg">
+  <source src="hhttps://www.lawlessfrench.com/wavs/chocolat-a-paris.mp3" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 
