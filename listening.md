@@ -19,9 +19,13 @@ Learn the following flashcards of basic French verbs. Use the audio to help you 
 <iframe src="https://h5p.org/h5p/embed/364551" width="830" height="954" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h2>Intermediate Exercises</h2>
-
+<p>Once you feel more comfortable with verbs and French listening, move on to these more complex exercises in order to test your knowledge.</p>
 <h3>Exercise 1: Listen to the song and fill the gaps</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFzViYkZAz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://h5p.org/h5p/embed/345717" width="560" height="1414" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<p>Third party resources used are: 
+  https://www.lawlessfrench.com/listening/
+  </p>
