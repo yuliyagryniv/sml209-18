@@ -181,10 +181,10 @@
 
 <p>
   Complete this exercise in order to test your knowledge of the past participles which go with the verb être. 
-  
+ </p>
   <a href="etrepastparticiple.html" class="btn2">Go to Exercise</a>
   
-  </p>
+  
   
   
   
