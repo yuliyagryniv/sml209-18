@@ -182,9 +182,7 @@
 <p>
   Complete this exercise in order to test your knowledge of the past participles which go with the verb être. 
   
-  <a style="float:left;" href="etrepastparticiple.html" class="btn2">Go to Exercise</a>
-  </p>
-  <div style="clear:both;"> </div>
+  <a href="etrepastparticiple.html" class="btn2">Go to Exercise</a>
   
   </p>
   
@@ -209,10 +207,6 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 
 Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add an extra <i>-s</i> because the verb <i>manger</i> goes with the verb <i>avoir</i>, not <i>être</i>. 
 
-</p>
-
-    
-</p>
 
 <h3>Exercise 2</h3>
 Complete the following exercise once you have memorised the verbs which take <i>être</i>. 
