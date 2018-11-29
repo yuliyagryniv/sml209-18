@@ -15,7 +15,13 @@
 <h2>Intermediate Exercises</h2>
 <p>Once you feel more comfortable with verbs and French listening, move on to these more complex exercises in order to test your knowledge.</p>
 
-<h3>Exercise 1: Listen to the song and fill the gaps</h3>
+<h3>Exercise 1: Listen to the audio and fill the gaps</h3>
+<audio controls>
+  <source src="https://www.lawlessfrench.com/wavs/bise-a-la-francaise.mp3" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
+
+<h3>Exercise 2: Listen to the song and fill the gaps</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFzViYkZAz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
