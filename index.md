@@ -13,8 +13,13 @@ On this page you will also learn about the French language, where it is spoken, 
   
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv"> Visit my QM+ Hub Page</a>
 <hr>
-<h2>Section 2</h2>
-<p>My to-do list for this week:</p>
+<h2>Where is France?</h2>
+<p>
+  This is an interactive map of France. Click on the blue markers to read about the key cities. 
+<iframe src="https://www.google.com/maps/d/embed?mid=18AV_WSgPvnOdQ3uxHUx76ViReFwQU8AH" width="640" height="480"></iframe>
+  </p>
+  
+  
 <ul> 
 <li>Attend compulsory Year Abroad session on Wednesday</li> 
 <li>Do the preparatory work for next week</li> 
@@ -39,7 +44,3 @@ title="View Image Source">
 The flag of France (French: Drapeau français) is a tricolour flag featuring three vertical bands coloured blue (hoist side), white, and red. It is known to English speakers as the French Tricolour or simply the Tricolour (French: Tricolore). The Tricolour has become one of the most influential flags in history, with its three-colour scheme being copied by many other nations, both in Europe and the rest of the world
 </p>
 
-<p>
-  This is an interactive map of France. Click on the pinpoints to read about the key cities. 
-<iframe src="https://www.google.com/maps/d/embed?mid=18AV_WSgPvnOdQ3uxHUx76ViReFwQU8AH" width="640" height="480"></iframe>
-  </p>
