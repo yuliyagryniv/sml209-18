@@ -2,9 +2,15 @@
 <p>This is my page for SML209</p>
 <hr>
 
-<h2>Section 1</h2>
-<p>My name is Yuliya and I am from Western Ukraine. I moved to London with my family when I was 5 years old. At QMUL I am studying French with Business Management. 
-This web page will be used in order to create content for learners of the French language, who are particularly seeking to learn about verbs and their conjugations.</p>
+<h2>Focus on French verbs</h2>
+<p> 
+If you are thinking about learning French or have already begun, this website will help you to focus your learning on French verbs and their tenses. Go through the pages step by step, starting from theoretical content, and secure your knowledge with question practice for Listening, Speaking, and Reading & Writing. If you are still not sure, go back to the theory and start again. Practice makes perfect!</p>
+
+<p>
+  On the <i>Home</i> page, you will also be able to learn a bit about the French culture. Language learning is not only about grammatical principles and sentence construction, which is why it is also important to learn about culture since you can acquire knowledge of the norms that link language to a social and cognitive context.
+On this page you will also learn about the French language, where it is spoken, and its differentiations throughout the other Francophone countries.
+  </p>
+  
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv"> Visit my QM+ Hub Page</a>
 <hr>
 <h2>Section 2</h2>
