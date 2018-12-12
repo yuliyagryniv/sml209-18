@@ -2,6 +2,13 @@
 ---
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+body { 
+    font-family: 'Lora', serif;
+}
+
+
 .imgLeft {
 float:left;
 margin-right:10px;
