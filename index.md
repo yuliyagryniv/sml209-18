@@ -32,3 +32,8 @@ title="View Image Source">
 </a>
 The flag of France (French: Drapeau français) is a tricolour flag featuring three vertical bands coloured blue (hoist side), white, and red. It is known to English speakers as the French Tricolour or simply the Tricolour (French: Tricolore). The Tricolour has become one of the most influential flags in history, with its three-colour scheme being copied by many other nations, both in Europe and the rest of the world
 </p>
+
+<p>
+  This is an interactive map of France. Click on the pinpoints to read about the key cities. 
+<iframe src="https://www.google.com/maps/d/embed?mid=18AV_WSgPvnOdQ3uxHUx76ViReFwQU8AH" width="640" height="480"></iframe>
+  </p>
