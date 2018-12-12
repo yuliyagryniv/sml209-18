@@ -15,16 +15,12 @@ On this page you will also learn about the French language, where it is spoken, 
 <hr>
 <h2>Where is France?</h2>
 <p>
+  Located in the continent of Europe, France covers 640,427 square kilometers of land and 3,374 square kilometers of water, making it the 43rd largest nation in the world with a total area of 643,801 square kilometers.
+  France shares land borders with 8 countries: Germany, Italy, Switzerland, Andorra, Belgium, Luxembourg, Monaco, Spain.
   This is an interactive map of France. Click on the blue markers to read about the key cities. 
 <iframe src="https://www.google.com/maps/d/embed?mid=18AV_WSgPvnOdQ3uxHUx76ViReFwQU8AH" width="640" height="480"></iframe>
   </p>
   
-  
-<ul> 
-<li>Attend compulsory Year Abroad session on Wednesday</li> 
-<li>Do the preparatory work for next week</li> 
-<li>Do food shopping</li> 
-</ul>
 <hr>
 <h2>Section 3</h2>
 <p>Three of my favourite things</p>
