@@ -21,3 +21,39 @@
   <b>-er</b> verbs are the most common type.
   </p>
   
+<table>
+  <tr>
+    <th>Trouv<b>er</b></th><th>Fin<b>ir</b></th><th>Attend<b>re</b></th>
+  </tr>
+  <tr>
+    <td> <i>je trouv<b>e</b></i> </td>
+    <td>je fini<b>s</b></td>
+    <td> <i>j'attend<b>s</b>/i> </td>
+  </tr>
+  <tr> 
+    <td> <i>tu trouv<b>es</b></i> </td>
+    <td>tu fini<b>is</b>/td>
+    <td> <i>tu attend<b>s</b></i> </td>
+  </tr>
+  <tr>
+    <td> <i>il/elle/on trouv<b>e</b></i> </td>
+    <td>il/elle/on fini<b>t</b></td>
+    <td> <i>il/elle/on attend</i> </td>
+  </tr>
+  <tr>
+    <td> <i>nous trouv<b>ons</b></i> </td>
+    <td>nous fin<b>issons</b></td>
+    <td> <i>nous attend<b>ons</b></i> </td>
+  </tr>
+  <tr>
+    <td> <i>vous trouv<b>ez</b></i> </td>
+    <td>vous fini<b>issez</b></td>
+    <td> vous attend<b>ez</b> </td>
+  </tr>
+  <tr>
+    <td> ils/elles trouv<b>ent</b> </td>
+    <td>ils/elles fini<b>issent</b></td>
+    <td> ils/elles attend<b>ent</b> </td>
+  </tr>
+
+  </table>
