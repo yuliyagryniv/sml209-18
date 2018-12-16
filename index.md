@@ -35,8 +35,13 @@ On this page you will also learn about the French language, where it is spoken, 
 <p>
   For more information regarding the francophone countries around the world, click <a href="https://www.babbel.com/en/magazine/how-many-people-speak-french-and-where-is-french-spoken/"> here</a>, from where the above data has been sourced. 
   </p>
+
 <p>
+  This is an interactive map of all the francophone countries in the world. 
+  <iframe src="https://www.google.co.uk/maps/d/embed?mid=1cl-wNQJUSaHVmhzPgCSbkXYeifNaaK6o" width="640" height="480"></iframe>
+</p>
   
+<p>  
 <a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
 title="View Image Source">
 <img class="imgLeft" src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
