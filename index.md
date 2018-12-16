@@ -52,7 +52,7 @@ title="View Image Source">
 <img class="imgLeft" src="http://www.aranchodoc.com/wp-content/uploads/2017/06/Counting-in-french2.png" alt="French numbering">
 </a>
 Canada use <i>soixante-dix</i> (60+10) for seventy, <i>quatre-vingts</i> (4×20) for eighty and <i>quatre-vingt-dix</i> (4×20+10) for ninety. In Belgium they say <i>septante</i> and <i>nonante</i> for seventy and ninety respectively, while they say <i>quatre-vingts</i> for eighty. The Swiss make their lives even easier than their French-speaking fellows and say <i>septante</i>, <i>huitante</i> and <i>nonante</i>!
-</p>
+
 
 <p>
   For the source of the above infomation, click <a href="http://www.aranchodoc.com/french-language-around-the-world/"> here</a>. 
