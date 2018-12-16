@@ -57,11 +57,15 @@ The flag of France (French: Drapeau français) is a tricolour flag featuring thr
   France is known for everything from romance to incredible cuisine, but it is also infamous for some of its amazing landmarks, some of which you can learn about here. </p>
   
 <p> Study the following flashcard set, and complete the exercises to test your knowledge of the main landmarks of France.
+  </p>
+  <p>
   <iframe src="https://h5p.org/h5p/embed/390074" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </p>
   
 <p> 
   You can test your knowledge of these 9 landmarks here. 
+  </p>
+  <p>
   <iframe src="https://h5p.org/h5p/embed/390071" width="1090" height="782" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </p>
   
