@@ -47,12 +47,12 @@
   </tr>
   <tr>
     <td>vous trouv<b>ez</b></td>
-    <td>vous fini<b>issez</b></td>
+    <td>vous fin<b>issez</b></td>
     <td> vous attend<b>ez</b> </td>
   </tr>
   <tr>
     <td> ils/elles trouv<b>ent</b> </td>
-    <td>ils/elles fini<b>issent</b></td>
+    <td>ils/elles fin<b>issent</b></td>
     <td> ils/elles attend<b>ent</b> </td>
   </tr>
 
