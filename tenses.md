@@ -99,8 +99,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 <p>Study the following examples</p>
   
 <p>Examples with <i>avoir</i>:
- <b> j'<i>ai</i> parl<i>é</i> </b> which means <i>I spoke</i>
+ <b> j'<i>ai</i> parl<i>é</i> </b> which means <i>I spoke</i> </p>
  
- Explanation: the regular verb <i>parler</i> goes with the auxiliary verb <i>avoir</i>. This means that the first part of the phrase will be j'<i>ai</i>, since the subject of the verb is <i>je</i>. Then, you simply add the past participle. <i>Parler</i> is an <b>-er</b> verb which means that we must take off the <b>-er</b> and replace this with <b>é</b>. 
-  
-  </p>
+<p>Explanation: the regular verb <i>parler</i> goes with the auxiliary verb <i>avoir</i>. This means that the first part of the phrase will be j'<i>ai</i>, since the subject of the verb is <i>je</i>. Then, you simply add the past participle. <i>Parler</i> is an <b>-er</b> verb which means that we must take off the <b>-er</b> and replace this with <b>é</b>. 
+   </p>
