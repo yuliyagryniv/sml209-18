@@ -34,6 +34,7 @@ On this page you will also learn about the French language, where it is spoken, 
   
 <p>
   For more information regarding the francophone countries around the world, click here, from where the above data has been sourced. 
+  </p>
 <p>
   
 <a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
