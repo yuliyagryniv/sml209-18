@@ -40,6 +40,23 @@ On this page you will also learn about the French language, where it is spoken, 
   This is an interactive map of all the francophone countries in the world. 
   <iframe src="https://www.google.co.uk/maps/d/embed?mid=1cl-wNQJUSaHVmhzPgCSbkXYeifNaaK6o" width="640" height="480"></iframe>
 </p>
+
+<hr>
+
+<h2>Varieties of French</h2>
+<p> Due to the extensive reach of the French language, there are many regional differences in each variant. </p>
+<p>An example of such differences lies in the numbering system. For example, the words for certain numbers differ from country to country. </p>
+
+<a href="http://www.aranchodoc.com/wp-content/uploads/2017/06/Counting-in-french2.png"
+title="View Image Source">
+<img class="imgLeft" src="http://www.aranchodoc.com/wp-content/uploads/2017/06/Counting-in-french2.png" alt="French numbering">
+</a>
+Canada use <i>soixante-dix</i> (60+10) for seventy, <i>quatre-vingts</i> (4×20) for eighty and <i>quatre-vingt-dix</i> (4×20+10) for ninety. In Belgium they say <i>septante</i> and <i>nonante</i> for seventy and ninety respectively, while they say <i>quatre-vingts</i> for eighty. The Swiss make their lives even easier than their French-speaking fellows and say <i>septante</i>, <i>huitante</i> and <i>nonante</i>!
+</p>
+
+
+
+
   
 <hr>
 <h2>French Flag</h2>
