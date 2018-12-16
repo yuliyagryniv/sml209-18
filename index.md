@@ -33,7 +33,7 @@ On this page you will also learn about the French language, where it is spoken, 
   </p>
   
 <p>
-  For more information regarding the francophone countries around the world, click here, from where the above data has been sourced. 
+  For more information regarding the francophone countries around the world, click <a href="https://www.babbel.com/en/magazine/how-many-people-speak-french-and-where-is-french-spoken/"> here</a>, from where the above data has been sourced. 
   </p>
 <p>
   
