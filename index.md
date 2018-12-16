@@ -17,20 +17,23 @@ On this page you will also learn about the French language, where it is spoken, 
 <p>
   Located in the continent of Europe, France covers 640,427 square kilometers of land and 3,374 square kilometers of water, making it the 43rd largest nation in the world with a total area of 643,801 square kilometers.
   France shares land borders with 8 countries: Germany, Italy, Switzerland, Andorra, Belgium, Luxembourg, Monaco, Spain.
-  This is an interactive map of France. Click on the blue markers to read about the key cities. 
+  </p>
+  <p>
+  This is an interactive map of France. Click on the blue markers to read about the key cities. </p>
 <iframe src="https://www.google.com/maps/d/embed?mid=18AV_WSgPvnOdQ3uxHUx76ViReFwQU8AH" width="640" height="480"></iframe>
   </p>
   
 <hr>
-<h2>Section 3</h2>
-<p>Three of my favourite things</p>
-<ol>
-  <li>Sports Cars</li> 
-  <li>Travel</li>
-  <li>Music</li>
-  </ol>
-  <hr>
+<h2>French is also spoken in 29 countries around the world</h2>
+<p>
+  French is the official language in 29 countries, which puts it in second place behind English. Approximately 300 million people around the world speak French, making it the sixth most widely spoken language in the world, but the number could rise to as much as 700 million by 2050. 
+</p>
+<p>
+  The sheer number of Mandarin, English, and Spanish speakers is the most common justification for studying these languages. With the forecast growth of the language over the next thirty years, the same justification can be used for French. 
+  </p>
   
+<p>
+  For more information regarding the francophone countries around the world, click here, from where the above data has been sourced. 
 <p>
   
 <a href="https://www.eoibergueda.cat/wp-content/uploads/2017/06/je-parle-francais.jpg"
