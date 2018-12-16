@@ -21,7 +21,7 @@ On this page you will also learn about the French language, where it is spoken, 
   <p>
   This is an interactive map of France. Click on the blue markers to read about the key cities. </p>
 <iframe src="https://www.google.com/maps/d/embed?mid=18AV_WSgPvnOdQ3uxHUx76ViReFwQU8AH" width="640" height="480"></iframe>
-  </p>
+  
   
 <hr>
 <h2>French is also spoken in 29 countries around the world</h2>
