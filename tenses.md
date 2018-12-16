@@ -26,27 +26,27 @@
     <th>Trouv<b>er</b></th><th>Fin<b>ir</b></th><th>Attend<b>re</b></th>
   </tr>
   <tr>
-    <td> <i>je trouv<b>e</b></i> </td>
+    <td>je trouv<b>e</b> </td>
     <td>je fini<b>s</b></td>
-    <td> <i>j'attend<b>s</b>/i> </td>
+    <td>j'attend<b>s</b></td>
   </tr>
   <tr> 
-    <td> <i>tu trouv<b>es</b></i> </td>
+    <td>tu trouv<b>es</b></td>
     <td>tu fini<b>is</b>/td>
-    <td> <i>tu attend<b>s</b></i> </td>
+    <td>tu attend<b>s</b></td>
   </tr>
   <tr>
-    <td> <i>il/elle/on trouv<b>e</b></i> </td>
+    <td>il/elle/on trouv<b>e</b></td>
     <td>il/elle/on fini<b>t</b></td>
-    <td> <i>il/elle/on attend</i> </td>
+    <td>il/elle/on attend</td>
   </tr>
   <tr>
-    <td> <i>nous trouv<b>ons</b></i> </td>
+    <td>nous trouv<b>ons</b></td>
     <td>nous fin<b>issons</b></td>
-    <td> <i>nous attend<b>ons</b></i> </td>
+    <td>nous attend<b>ons</b></td>
   </tr>
   <tr>
-    <td> <i>vous trouv<b>ez</b></i> </td>
+    <td>vous trouv<b>ez</b></td>
     <td>vous fini<b>issez</b></td>
     <td> vous attend<b>ez</b> </td>
   </tr>
