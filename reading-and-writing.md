@@ -10,3 +10,8 @@
  
 <br>
 <h3>Exercise 2</h3>
+<p> Complete this exercise and do not forget about agreement in number and gender! Focus on who is the subject of the text!
+ </p>
+ <iframe src="https://h5p.org/h5p/embed/390994" width="1065" height="430" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ <br>
+ 
