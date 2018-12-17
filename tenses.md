@@ -141,7 +141,6 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   <strike>nous</strike> port<strike>ons</strike> &#8594; je portais = I used to wear. 
   </p>
   
-<br>
 <p> <u>The endings are as follows: </u>
   <table>
   <tr>
