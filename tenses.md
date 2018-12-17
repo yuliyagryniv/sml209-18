@@ -106,7 +106,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
    
 <hr>
 <p>Example with <i>être</i>:
- <b> je<i>suis</i> all<i>é(e)</i> </b> which means <i>I went</i> </p>
+ <b> je <i>suis</i> all<i>é(e)</i> </b> which means <i>I went</i> </p>
  
  <p>Explanation: The verb <i>aller</i> is one of the few verbs which go with the auxiliary <i>être</i>. This means that the phrase will begin with je<i>suis</i>, since the subject of the verb is <i>je</i>. Then, you simply add the past participle. <i>Aller</i> is an <b>-er</b> verb which means that we must take off the <b>-er</b> and replace this with <b>é</b>. </p>
   
