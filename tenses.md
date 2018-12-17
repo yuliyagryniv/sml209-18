@@ -32,7 +32,7 @@
   </tr>
   <tr> 
     <td>tu trouv<b>es</b></td>
-    <td>tu fini<b>is</b>/td>
+    <td>tu fini<b>s</b></td>
     <td>tu attend<b>s</b></td>
   </tr>
   <tr>
