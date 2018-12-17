@@ -138,5 +138,5 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   It is formed with the imperfect stem + the appropriate endings. To get the imperfect stem, take the nous form of the present tense and remove the <b>-ons</b> ending.
   </p>
 <p>
-  <strike>nous</strike> port<strike>ons</strike> &#8594 je portais = I used to wear. 
+  <strike>nous</strike> port<strike>ons</strike> &#8594; je portais = I used to wear. 
   </p>
