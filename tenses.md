@@ -20,7 +20,8 @@
   There are three types of regular verbs: <b>-er</b> verbs, <b>-ir</b> verbs and <b>-re</b> verbs.
   <b>-er</b> verbs are the most common type.
   </p>
-  
+
+<p>
 <table>
   <tr>
     <th>Trouv<b>er</b></th><th>Fin<b>ir</b></th><th>Attend<b>re</b></th>
@@ -56,9 +57,11 @@
     <td> ils/elles attend<b>ent</b> </td>
   </tr>
   </table>
+</p>
 
 <p>Some verbs follow their own pattern. These are called <b>irregular verbs</b>. </p>
 
+<p>Complete the following exercises in order to test your knowledge of the present tense: </p>
 <hr>
 <h2>The Perfect Tense</h2>
 
@@ -177,5 +180,13 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
     <td>ils/elles port<b>aient</b></td>
   </tr>
   </p>
+  
+<p>Être has an irregular stem: <b>ét-</b> </p>
+<p>Example: J'étais &#8594; I used to be, I was </p>
+
+<p>The imperfect tense of <b>c'est</b> <i>(it is)</i> is <b>c'était</b> <i>(it was)</i>.
+  The imperfect tense of <b>il y a</b> <i>(there is/there are)</i> is <b>il y avait</b> <i>(there was/there were).</i> </p>
+  
+Complete the following exercises in order to test your knowledge of the imperfect tense:
   
   
