@@ -61,7 +61,10 @@
 
 <p>Some verbs follow their own pattern. These are called <b>irregular verbs</b>. </p>
 
-<p>Complete the following exercises in order to test your knowledge of the present tense: </p>
+<p>Learn these useful verbs and complete the following exercises in order to test your knowledge. </p>
+<p><iframe src="https://h5p.org/h5p/embed/390679" width="630" height="907" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
+
+<p> <iframe src="https://h5p.org/h5p/embed/390747" width="1090" height="337" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
 <hr>
 <h2>The Perfect Tense</h2>
 
@@ -115,6 +118,8 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   
   <p>NOTE: Verbs that go with <i>être</i> must agree in <b>number</b> and <b>gender</b>. This means that if the subject of the sentence is <i>feminine</i>, you must add an extra <b>-e</b>. If the subject is <i>plural</i>, you add an extra <b>-s</b>. If the subject of the verb is both <i>feminine and plural</i>, add <b>-es</b>. 
   </p>
+ 
+ <p> Complete the following exercises in order to test your knowledge of the perfect tense.</p>
  
  <hr>
  <h3>The Imperfect Tense</h3>
