@@ -189,11 +189,13 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 <p>Être has an irregular stem: <b>ét-</b> </p>
 <p>Example: J'étais &#8594; I used to be, I was </p>
 
+<br> 
 <p>The imperfect tense of <b>c'est</b> <i>(it is)</i> is <b>c'était</b> <i>(it was)</i>.
   The imperfect tense of <b>il y a</b> <i>(there is/there are)</i> is <b>il y avait</b> <i>(there was/there were).</i> </p>
-  
+
+<br>
 Complete the following exercises in order to test your knowledge of the imperfect tense:
   
  <p> <iframe src="https://h5p.org/h5p/embed/390764" width="525" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
- 
+ <br>
  <p> <iframe src="https://h5p.org/h5p/embed/390771" width="525" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
