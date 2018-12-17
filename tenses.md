@@ -14,7 +14,7 @@
 </ul>  
 </p>
 
-<p>There is only one present tense in French: Je mange: <i>I eat</i> or <i>I am eating</i> <p>
+<p>There is only one present tense in French: Je mange: <i>I eat</i> or <i>I am eating</i> </p>
   
 <p>To use a verb in the present tense, you must change the infinitive according to a set of rules. You need to learn these rules by heart.
   There are three types of regular verbs: <b>-er</b> verbs, <b>-ir</b> verbs and <b>-re</b> verbs.
@@ -140,6 +140,8 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 <p>
   <strike>nous</strike> port<strike>ons</strike> &#8594; je portais = I used to wear. 
   </p>
+  
+<br>
 <p> <u>The endings are as follows: </u>
   <table>
   <tr>
