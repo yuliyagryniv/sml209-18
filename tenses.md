@@ -120,8 +120,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   
  <ul>
   <li><b>what used to happen</b>
-    i.e. <i>Il jouait au rugby, mais maintenant, il joue au foot.
-  <br>
+    i.e. <i>Il jouait au rugby, mais maintenant, il joue au foot.</i>
     He used to play rugby, but now he plays football.
   </li>
   <li> <b>Repeated actions in the past </b>
@@ -129,8 +128,8 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   <br>
     Every day I got up at 7 o'clock and I caught the bus.</li>
     <li> <b>What was happening over a period of time</b>
-    i.e. <i>Il jouait au rugby quand l'accident s'est passé.
+      i.e. <i>Il jouait au rugby quand l'accident s'est passé.</i>
   <br>
-    He was playing  rugby when the accident happened.
+    He was playing rugby when the accident happened.
   </li>
 </ul>  
