@@ -116,7 +116,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
  <hr>
  <h3>The Imperfect Tense</h3>
  
- <p>The imperfect tense <i>(l'imparfait)</i> is the past tense used to describe: 
+ The imperfect tense <i>(l'imparfait)</i> is the past tense used to describe: 
   
  <ul>
   <li><b>what used to happen</b>
@@ -124,14 +124,13 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   <br>
     <i>He used to play rugby, but now he plays football.</i>
   </li>
-  <li><b>Repeated actions in the past </b>
+  <li> <b>Repeated actions in the past </b>
     i.e. <i>Tous les jours, je me levais à sept heures et je prenais le bus</i> 
   <br>
-    <i>Every day I got up at 7 o'clock and I caught the bus.</li>
-    <li><b>What was happening over a period of time</b>
+    Every day I got up at 7 o'clock and I caught the bus.</li>
+    <li> <b>What was happening over a period of time</b>
     i.e. <i>Il jouait au rugby quand l'accident s'est passé.
   <br>
-    <i>He was playing  rugby when the accident happened..</i>
+    He was playing  rugby when the accident happened.
   </li>
 </ul>  
-</p>
