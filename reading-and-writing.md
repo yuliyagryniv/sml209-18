@@ -19,3 +19,7 @@
  Move on to these exercises once you feel more comfortable with your French verbs! If you see that you are not succeeding, go back to the beginner exercises. 
  <br>
  
+ <h3>Exercise 1</h3>
+ <p> <iframe src="https://h5p.org/h5p/embed/391007" width="962" height="462" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
+ 
+  <h3>Exercise 2</h3>
