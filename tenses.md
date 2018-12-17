@@ -60,7 +60,8 @@
 </p>
 
 <p>Some verbs follow their own pattern. These are called <b>irregular verbs</b>. </p>
-
+<hr>
+<h3>Exercises</h3>
 <p>Learn these useful verbs and complete the following exercises in order to test your knowledge. </p>
 <p><iframe src="https://h5p.org/h5p/embed/390679" width="530" height="807" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
 
@@ -68,8 +69,8 @@
 <hr>
 <h2>The Perfect Tense</h2>
 
-<p>The perfect tense <i>(le passé composé)</i> is used to talk about a single event in the past.
-  <i>j’ai joué</i> meaning <i>I played</i> or <i>I have played</i> </p>
+<p>The perfect tense <i>(le passé composé)</i> is used to talk about a single event in the past. i.e. 
+  <i>j’ai joué</i> which means <i>I played</i> or <i>I have played</i> </p>
   
 <p>There is more information about the Perfect tense <a href="https://yuliyagryniv.github.io/sml209-18/introduction.html"> here</a>.
   </p>
@@ -84,7 +85,7 @@
 
 <h3>The auxiliary verb</h3>
 
-<p>To learn about the French auxiliary verbs, please go to the <i>Introduction to French Verbs</i> page. You hcan find this <a href="https://yuliyagryniv.github.io/sml209-18/introduction.html"> here</a>. </p> 
+<p>To learn about the French auxiliary verbs, please go to the <i>Introduction to French Verbs</i> page. You can find this <a href="https://yuliyagryniv.github.io/sml209-18/introduction.html"> here</a>. </p> 
 
 <h3>Forming the past participle</h3>
 
@@ -102,7 +103,8 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 
 <p>Then, you simply choose the subject of the sentence with its corresponding auxiliary verb, and add its past participle.</p>
 
-<p>Study the following examples</p>
+<br>
+<p><u>Study the following examples</u></p>
   
 <p>Example with <i>avoir</i>:
  <b> j'<i>ai</i> parl<i>é</i> </b> which means <i>I spoke</i> </p>
@@ -152,8 +154,8 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   It is formed with the imperfect stem + the appropriate endings. To get the imperfect stem, take the nous form of the present tense and remove the <b>-ons</b> ending.
   </p>
 <p>
-  <strike>nous</strike> port<strike>ons</strike> &#8594; je portais = I used to wear. 
-  </p>
+  <strike>nous</strike> port<strike>ons</strike> &#8594; je portais = I used to wear.   </p>
+
   
 <p> <u>The endings are as follows: </u>
   <table>
@@ -196,15 +198,14 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 <p>Être has an irregular stem: <b>ét-</b> </p>
 <p>Example: J'étais &#8594; I used to be, I was </p>
 
-<br> 
 <p>The imperfect tense of <b>c'est</b> <i>(it is)</i> is <b>c'était</b> <i>(it was)</i>.
   The imperfect tense of <b>il y a</b> <i>(there is/there are)</i> is <b>il y avait</b> <i>(there was/there were).</i> </p>
-
+<hr>
 <br>
 Complete the following exercises in order to test your knowledge of the imperfect tense:
   
 <h3> Exercise 1</h3>
  <p> <iframe src="https://h5p.org/h5p/embed/390764" width="525" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
- <br>
+
  <h3>Exercise 2</h3>
  <p> <iframe src="https://h5p.org/h5p/embed/390771" width="525" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
