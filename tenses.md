@@ -120,8 +120,11 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   </p>
  
  <p> Complete the following exercises in order to test your knowledge of the perfect tense.</p>
+ 
+ <h3>Exercise 1</h3>
  <p><iframe src="https://h5p.org/h5p/embed/390945" width="525" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p> 
  <br>
+ <h3>Exercise 2</h3>
  <p> <iframe src="https://h5p.org/h5p/embed/390951" width="525" height="368" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
  
  <hr>
@@ -188,6 +191,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
     <td>ils/elles port<b>aient</b></td>
   </tr>
   </p>
+  </table>
   
 <p>Être has an irregular stem: <b>ét-</b> </p>
 <p>Example: J'étais &#8594; I used to be, I was </p>
@@ -199,6 +203,8 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 <br>
 Complete the following exercises in order to test your knowledge of the imperfect tense:
   
+<h3> Exercise 1</h3>
  <p> <iframe src="https://h5p.org/h5p/embed/390764" width="525" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
  <br>
+ <h3>Exercise 2</h3>
  <p> <iframe src="https://h5p.org/h5p/embed/390771" width="525" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
