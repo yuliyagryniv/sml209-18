@@ -108,9 +108,9 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
 <p>Example with <i>être</i>:
  <b> je<i>suis</i> all<i>é(e)</i> </b> which means <i>I went</i> </p>
  
- <p>Explanation: The verb <i>aller</i> is one of the few verbs which go with the auxiliary <i>être</i>. This means that the phrase will begin with je<i>suis</i>, since the subject of the verb is <i>je</i>. Then, you simply add the past participle. <i>Aller</i> is an <b>-er</b> verb which means that we must take off the <b>-er</b> and replace this with <b>é</b>. 
-  <br>
-  NOTE: Verbs that go with <i>être</i> must agree in <b>number</b> and <b>gender</b>. This means that if the subject of the sentence is <i>feminine</i>, you must add an extra <b>-e</b>. If the subject is <i>plural</i>, you add an extra <b>-s</b>. If the subject of the verb is both <i>feminine and plural</i>, add <b>-es</b>. 
+ <p>Explanation: The verb <i>aller</i> is one of the few verbs which go with the auxiliary <i>être</i>. This means that the phrase will begin with je<i>suis</i>, since the subject of the verb is <i>je</i>. Then, you simply add the past participle. <i>Aller</i> is an <b>-er</b> verb which means that we must take off the <b>-er</b> and replace this with <b>é</b>. </p>
+  
+  <p>NOTE: Verbs that go with <i>être</i> must agree in <b>number</b> and <b>gender</b>. This means that if the subject of the sentence is <i>feminine</i>, you must add an extra <b>-e</b>. If the subject is <i>plural</i>, you add an extra <b>-s</b>. If the subject of the verb is both <i>feminine and plural</i>, add <b>-es</b>. 
   </p>
  
  <hr>
@@ -122,7 +122,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   <li><b>what used to happen</b>
     i.e. <i>Il jouait au rugby, mais maintenant, il joue au foot.
   <br>
-    <i>He used to play rugby, but now he plays football.</i>
+    He used to play rugby, but now he plays football.
   </li>
   <li> <b>Repeated actions in the past </b>
     i.e. <i>Tous les jours, je me levais à sept heures et je prenais le bus</i> 
