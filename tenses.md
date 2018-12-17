@@ -113,4 +113,25 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   NOTE: Verbs that go with <i>être</i> must agree in <b>number</b> and <b>gender</b>. This means that if the subject of the sentence is <i>feminine</i>, you must add an extra <b>-e</b>. If the subject is <i>plural</i>, you add an extra <b>-s</b>. If the subject of the verb is both <i>feminine and plural</i>, add <b>-es</b>. 
   </p>
  
+ <hr>
+ <h3>The Imperfect Tense</h3>
  
+ <p>The imperfect tense <i>(l'imparfait)</i> is the past tense used to describe: 
+  
+ <ul>
+  <li><b>what used to happen</b>
+    i.e. <i>Il jouait au rugby, mais maintenant, il joue au foot.
+  <br>
+    <i>He used to play rugby, but now he plays football.</i>
+  </li>
+  <li><b>Repeated actions in the past </b>
+    i.e. <i>Tous les jours, je me levais à sept heures et je prenais le bus</i> 
+  <br>
+    <i>Every day I got up at 7 o'clock and I caught the bus.</li>
+    <li><b>What was happening over a period of time</b>
+    i.e. <i>Il jouait au rugby quand l'accident s'est passé.
+  <br>
+    <i>He was playing  rugby when the accident happened..</i>
+  </li>
+</ul>  
+</p>
