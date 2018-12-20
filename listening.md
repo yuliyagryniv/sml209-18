@@ -30,6 +30,4 @@ Your browser does not support the audio element.
 
 <iframe src="https://h5p.org/h5p/embed/345717" width="560" height="1414" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<p>Third party resources used are: 
-  <a href="https://www.lawlessfrench.com/listening/" </a> unless stated otherwise
-  </p>
+<p>Resources used for listening practice are copyright material from <a href="https://www.lawlessfrench.com/listening/">Lawless French</a> </p>
