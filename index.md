@@ -1,5 +1,6 @@
 <h1>Welcome</h1>
-<p>This is my page for SML209</p>
+<p>This page has been made by Yuliya Gryniv (Student Number: 170208280) for SML209: Computers & Language.</p>
+<p> You can <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv"> Visit my QM+ Hub Page here</a> </p>
 <hr>
 
 <h2>Focus on French verbs</h2>
@@ -11,7 +12,6 @@ If you are thinking about learning French or have already begun, this website wi
 On this page you will also learn about the French language, where it is spoken, and its differentiations throughout the other Francophone countries.
   </p>
   
-<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv"> Visit my QM+ Hub Page</a>
 <hr>
 <h2>Where is France?</h2>
 <p>
@@ -65,7 +65,15 @@ Canada use <i>soixante-dix</i> (60+10) for seventy, <i>quatre-vingts</i> (4×20)
 title="View Image Source">
 <img class="imgLeft" src="https://www.frenchentree.com/wp-content/uploads/2015/09/Je-parle-Francais.jpg" alt="I speak French">
 </a>
-The flag of France (French: Drapeau français) is a tricolour flag featuring three vertical bands coloured blue (hoist side), white, and red. It is known to English speakers as the French Tricolour or simply the Tricolour (French: Tricolore). The Tricolour has become one of the most influential flags in history, with its three-colour scheme being copied by many other nations, both in Europe and the rest of the world
+<p>The French Flag is popularly called Le bleu, blanc, rouge, which translate into the blue white and red, or Le drapeau Tricolore which means the The Tri-colour flag.
+
+During the French revolution in 1789, the Royal families (whose emblem was a white flag), where afronted by the revolutionaries of Paris, who wore a red and white rossette, the colours of Paris.
+
+After the taking of the Bastille in Paris (14 July 1789), the French king Louis XVI, came to the capital city on the 17th of July 1789, and officially recognised La Garde Nationale (the new national guard), he wore a rosette with the colours, blue, white and red. The white being added by La Fayette, leader of the Garde Nationale.
+
+The 21st of January 1793 king Louis XVI is beheaded.
+
+In February 1794, the three coloured flag became the national emblem of France. 
 </p>
 
 <hr>
