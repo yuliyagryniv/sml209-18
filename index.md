@@ -75,7 +75,9 @@ The 21st of January 1793 king Louis XVI is beheaded.
 
 In February 1794, the three coloured flag became the national emblem of France. 
 </p>
-
+<p>
+  For more information regarding the french flag, click <a href="https://www.france-pub.com/flag.php"> here</a>, from where the above data has been sourced. 
+  </p>
 <hr>
 <h2>Famous French Landmarks</h2>
 <p>
