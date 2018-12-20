@@ -182,6 +182,7 @@
   Complete this exercise in order to test your knowledge of the past participles which go with the verb être. 
  </p>
   <a style="float:right;" href="etrepastparticiple.html" class="btn2">Go to Exercise</a>
+  <div style="clear:both;"> </div>
 
 <p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p>
 <h3> Formation with Avoir</h3>
