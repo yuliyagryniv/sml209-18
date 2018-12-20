@@ -4,7 +4,6 @@
   This page is an overview for beginners of the French verbs and tenses. Here, we will use grammatical terminology, so it is essential that you are familiar with the basic terms:
 </p>
 <iframe src="https://h5p.org/h5p/embed/369358" width="1090" height="309" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<br>
 
 <h2>Auxiliary Verbs - The Perfect Tense</h2>
 <p>
@@ -182,7 +181,7 @@
 <p>
   Complete this exercise in order to test your knowledge of the past participles which go with the verb être. 
  </p>
-  <a href="etrepastparticiple.html" class="btn2">Go to Exercise</a>
+  <a style="float:right;" href="etrepastparticiple.html" class="btn2">Go to Exercise</a>
 
 <p> Unlike with <i>être</i>, verbs with <i>avoir</i> do not agree in number and gender. This means that even if the subject of the sentence is feminine or plural, the past participle DOES NOT change. </p>
 <h3> Formation with Avoir</h3>
@@ -206,18 +205,16 @@ Note that even though <i>nous</i>, meaning <i>we</i> is plural, you do not add a
 Complete the following exercise once you have memorised the verbs which take <i>être</i>. 
 <iframe src="https://h5p.org/h5p/embed/369419" width="1090" height="231" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br>
-<p>In order to help you learn some basic French verbs, look at the following flashcards and complete the memory game below.</p>
+<h3>Exercise 3</h3>
+<p>In order to help you learn some basic French verbs, study the following flashcards and complete the memory game below.</p>
 
 Learn the following flashcards of basic French verbs. Use the audio to help you with pronunciation. 
 <iframe src="https://h5p.org/h5p/embed/364501" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<br>
 <p>Complete the following memory game by matching the image with the corresonding French verb</p>
 <iframe src="https://h5p.org/h5p/embed/364551" width="830" height="954" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
   
 
 <p lang="fr">Je m'appelle Yuliya et j'habite à Londres</p>
-
-  
-<p style="color:#22539f;">This page was made on the 26<sup>th</sup> of November 2018</p>
