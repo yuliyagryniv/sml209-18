@@ -125,7 +125,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
  
  <h3>Exercise 1</h3>
  <p><iframe src="https://h5p.org/h5p/embed/390945" width="525" height="442" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p> 
- <br>
+ 
  <h3>Exercise 2</h3>
  <p> <iframe src="https://h5p.org/h5p/embed/390951" width="525" height="368" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
  
