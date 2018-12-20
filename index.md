@@ -1,6 +1,6 @@
 <h1>Welcome</h1>
 <p>This page has been made by Yuliya Gryniv (Student Number: 170208280) for SML209: Computers & Language.</p>
-<p> You can <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv"> Visit my QM+ Hub Page here</a> </p>
+<p> You can visit my QM+ Hub Page <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?profile=yuliya-gryniv&page=sml209-computers-languages-2018-yuliya-gryniv">here</a> </p>
 <hr>
 
 <h2>Focus on French verbs</h2>
@@ -76,7 +76,7 @@ The 21st of January 1793 king Louis XVI is beheaded.
 In February 1794, the three coloured flag became the national emblem of France. 
 </p>
 <p>
-  For more information regarding the french flag, click <a href="https://www.france-pub.com/flag.php"> here</a>, from where the above data has been sourced. 
+  For more information regarding the French flag, click <a href="https://www.france-pub.com/flag.php"> here</a>, from where the above data has been sourced. 
   </p>
 <hr>
 <h2>Famous French Landmarks</h2>
