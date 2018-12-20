@@ -26,7 +26,7 @@
  
   <h3>Exercise 2</h3>
  <p> Read the following text and answer the multiple choice questions. </p>
- <p> Clément et Manon ont très faim et la pendule du salon sonne midi. Ils décident d’aller au marché pour acheter les ingrédients qu’ils vont cuisiner.
+<p lang="fr"> Clément et Manon ont très faim et la pendule du salon sonne midi. Ils décident d’aller au marché pour acheter les ingrédients qu’ils vont cuisiner.
 <br>
 Ils ont besoin d’une salade verte, de 6 tomates, de 3 œufs, de crème fraiche et de jambon. Ils vont cuisiner une quiche lorraine pour le repas.
 <br>
