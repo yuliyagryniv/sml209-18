@@ -157,7 +157,7 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
   <strike>nous</strike> port<strike>ons</strike> &#8594; je portais = I used to wear.   </p>
 
   
-<p> <u>The endings are as follows: </u>
+<u>The endings are as follows: </u>
   <table>
   <tr>
     <th>Subject</th><th>Ending</th><th>Example</th>
@@ -192,7 +192,6 @@ Nous avons mangé - <i>We ate</i> or <i>We have eaten</i>.
     <td>-aient</td>
     <td>ils/elles port<b>aient</b></td>
   </tr>
-  </p>
   </table>
   
 <p>Être has an irregular stem: <b>ét-</b> </p>
